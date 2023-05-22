@@ -12,7 +12,7 @@ Namaste React ❤️
 - Compress
 - Consistent Hashing
 - Code Splitting
-- Differential Bundling - support older browsers 
+- Differential Bundling - support older browsers
 - Diagnostic
 - Error handling
 - HTTPS
