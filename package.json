@@ -1,0 +1,22 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "Namaste React ❤️",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/ishantmehta01/namaste-react.git"
+  },
+  "author": "Ishant Mehta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishantmehta01/namaste-react/issues"
+  },
+  "homepage": "https://github.com/ishantmehta01/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
