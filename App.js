@@ -1,3 +1,6 @@
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+
 const h22 = React.createElement('h2', {}, "This is H2!!")
 const h11 = React.createElement('h1', {style:{color: 'red'}}, ["Hello from React again baby!!", h22])
 
